@@ -7,7 +7,7 @@ def initialize
 end
 
 def bark
-  puts "Bark!"
+  puts "woof!"
 end
 
 end
